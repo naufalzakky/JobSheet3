@@ -315,3 +315,12 @@ void loop(){
 </pre>
 
 <h3>Hasil</h3>
+https://github.com/naufalzakky/JobSheet3/blob/main/1.png
+
+https://github.com/naufalzakky/JobSheet3/blob/main/3%20(1).png
+
+https://github.com/naufalzakky/JobSheet3/blob/main/3.png
+
+https://github.com/naufalzakky/JobSheet3/blob/main/COM3%202022-11-28%2010-17-07.mp4
+
+https://github.com/naufalzakky/JobSheet3/blob/main/WhatsApp%20Image%202022-11-28%20at%2011.30.18.jpeg
